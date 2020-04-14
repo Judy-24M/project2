@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+* README file: 14th of April 2020
+* Python code: 9th of April 2020
 
 ### Project Title
-Replace the Project Title
+**Bikeshare user analysis**
 
 ### Description
-Describe what your project is about and what it does
+The project explores data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. The script deploys statistics to understand user habits (travel routes, times, gender etc.) .
 
 ### Files used
-Include the files used
+1. Python script for data analysis
+2. Three files of raw data input in .cs (per city)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/pdsnd_github
