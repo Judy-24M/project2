@@ -6,9 +6,11 @@
 **Bikeshare user analysis**
 
 ### Description
+**Description of the project bikeshare**
 The project explores data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. The script deploys statistics to understand user habits (travel routes, times, gender etc.) .
 
 ### Files used
+**Files needed to conduct the analysis:**
 1. Python script for data analysis
 2. Three files of raw data input in .cs (per city)
 
